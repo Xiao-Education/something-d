@@ -1,5 +1,7 @@
 # 安全策略
 
+[中文](security.html){: #langBtn .lang-link }
+
 ## 本仓库用途
 
 本仓库仅用于**公开资料的分发与归档**，通过 GitHub Releases 附件提供下载。
