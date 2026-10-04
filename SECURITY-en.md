@@ -1,7 +1,7 @@
 <h1>Security Policy</h1>
 
 <h2>Repository Purpose</h2>
-<p>This repository is only for public distribution and archiving of materials, provided via GitHub Releases attachments. It does not publish software, accept code contributions, or maintain version numbers.</p>
+<p>This repository is only for public distribution and archiving of materials, provided via GitHub Releases attachments. </p>
 
 <h2>When to Report</h2>
 <p>If you find any of the following, please contact me:</p>
