@@ -1,11 +1,13 @@
 <a href="#en">English</a> · <a href="#zh">中文</a>
 
+---
+
 <a id="en"></a>
 ### Open-source, free daily resource sharing & submission platform
 
 This repository is used to **build/host the web front-end only**.  
 The actual shared resources/files are stored in a separate repository:  
-[XZZ-A11Y/Every-day-Share](https://github.com/XZZ-A11Y/Every-day-Share)
+[Every-day-Share](https://github.com/XZZ-A11Y/Every-day-Share)
 
 > It's a web front-end — all actual files live in a separate repository.
 
@@ -15,7 +17,7 @@ The actual shared resources/files are stored in a separate repository:
 [![stars](https://img.shields.io/badge/stars-welcome-blueviolet.svg)](https://github.com/XZZ-A11Y/Every-day-Share/stargazers)
 [![build](https://img.shields.io/badge/build-passing-brightgreen.svg)](https://github.com/XZZ-A11Y/Every-day-Share/actions)
 
-- 🌐 Web page: [https://xzz-a11y.github.io/every-day-share/](https://xzz-a11y.github.io/every-day-share)
+- 🌐 Web page: [https://xzz-a11y.github.io/Every-day-Share/](https://xzz-a11y.github.io/Every-day-Share/)
 - 📦 Resources: [Every-day-Share releases](https://github.com/XZZ-A11Y/Every-day-Share/releases)
 - 🛠 Source/Web build: this repository
 
@@ -32,7 +34,6 @@ Some submitted resources may carry their own independent licenses — please fol
 - **Optional settings token:** If you fill a Personal Access Token in the page settings panel, it is stored **only in your browser’s localStorage** and never uploaded to any server or repository.
 - **File submissions:** Content you submit to the resource repository is **public by default**. Do not upload personal data, private keys, ID photos, or confidential documents.
 - **Third-party links:** Download links may point to GitHub Releases. GitHub’s own privacy policy applies when you visit GitHub.
-- **Contact:** For privacy requests, email `your@email.com`.
 
 > This policy applies to the web front-end in this repository. It does not govern the contents of the separate resource repository beyond public distribution rules.
 
@@ -43,7 +44,7 @@ Some submitted resources may carry their own independent licenses — please fol
 
 本仓库仅用于**构建/托管网页前端**。  
 真正的资源文件存放在另一个仓库：  
-[XZZ-A11Y/Every-day-Share](https://github.com/XZZ-A11Y/Every-day-Share)
+[Every-day-Share](https://github.com/XZZ-A11Y/Every-day-Share)
 
 > 虽然这只是一个网页，真正的资源存放在另外一个仓库。
 
@@ -53,7 +54,7 @@ Some submitted resources may carry their own independent licenses — please fol
 [![stars](https://img.shields.io/badge/stars-welcome-blueviolet.svg)](https://github.com/XZZ-A11Y/Every-day-Share/stargazers)
 [![build](https://img.shields.io/badge/build-passing-brightgreen.svg)](https://github.com/XZZ-A11Y/Every-day-Share/actions)
 
-- 🌐 网页地址：[https://xzz-a11y.github.io/every-day-share/](https://xzz-a11y.github.io/every-day-share)
+- 🌐 网页地址：[https://xzz-a11y.github.io/Every-day-Share/](https://xzz-a11y.github.io/Every-day-Share/)
 - 📦 资源仓库/下载：[Every-day-Share releases](https://github.com/XZZ-A11Y/Every-day-Share/releases)
 - 🛠 网页构建源码：本仓库
 
@@ -70,6 +71,5 @@ Some submitted resources may carry their own independent licenses — please fol
 - **设置里的 Token**：若在页面设置面板填写访问令牌，仅保存在**你本机浏览器的 localStorage**，不会上传到任何服务器或仓库。
 - **投稿内容**：提交到资源仓库的文件**默认公开**，请勿上传个人隐私、私钥、证件照或涉密资料。
 - **第三方链接**：下载链接可能指向 GitHub Releases，访问 GitHub 时适用其隐私政策。
-- **联系我们**：隐私相关诉求可发邮件至 `your@email.com`。
 
 > 本隐私协议适用于本仓库托管的网页前端，不覆盖资源仓库中公开文件内容本身的分发规则。
