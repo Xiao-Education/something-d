@@ -7,6 +7,7 @@
   [![build](https://img.shields.io/badge/build-passing-brightgreen.svg)](https://github.com/XZZ-A11Y/Every-day-Share/actions)
 </div>
 ---
+
 ## 📜 使用协议
 
 本项目遵循 [GPL-3.0](LICENSE) 开源协议。
