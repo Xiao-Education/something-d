@@ -5,7 +5,7 @@
 
 This repository is used to **build/host the web front-end only**.  
 The actual shared resources/files are stored in a separate repository:  
-[Every-day-Share](https://github.com/XZZ-A11Y/Every-day-Share)
+[XZZ-A11Y/Every-day-Share](https://github.com/XZZ-A11Y/Every-day-Share)
 
 > It's a web front-end — all actual files live in a separate repository.
 
@@ -15,7 +15,7 @@ The actual shared resources/files are stored in a separate repository:
 [![stars](https://img.shields.io/badge/stars-welcome-blueviolet.svg)](https://github.com/XZZ-A11Y/Every-day-Share/stargazers)
 [![build](https://img.shields.io/badge/build-passing-brightgreen.svg)](https://github.com/XZZ-A11Y/Every-day-Share/actions)
 
-- 🌐 Web page: [https://xzz-a11y.github.io/你的网页仓库名/](https://xzz-a11y.github.io/every-day-share)
+- 🌐 Web page: [https://xzz-a11y.github.io/every-day-share/](https://xzz-a11y.github.io/every-day-share)
 - 📦 Resources: [Every-day-Share releases](https://github.com/XZZ-A11Y/Every-day-Share/releases)
 - 🛠 Source/Web build: this repository
 
@@ -43,7 +43,7 @@ Some submitted resources may carry their own independent licenses — please fol
 
 本仓库仅用于**构建/托管网页前端**。  
 真正的资源文件存放在另一个仓库：  
-[Every-day-Share](https://github.com/XZZ-A11Y/Every-day-Share)
+[XZZ-A11Y/Every-day-Share](https://github.com/XZZ-A11Y/Every-day-Share)
 
 > 虽然这只是一个网页，真正的资源存放在另外一个仓库。
 
@@ -53,7 +53,7 @@ Some submitted resources may carry their own independent licenses — please fol
 [![stars](https://img.shields.io/badge/stars-welcome-blueviolet.svg)](https://github.com/XZZ-A11Y/Every-day-Share/stargazers)
 [![build](https://img.shields.io/badge/build-passing-brightgreen.svg)](https://github.com/XZZ-A11Y/Every-day-Share/actions)
 
-- 🌐 网页地址：[https://xzz-a11y.github.io/你的网页仓库名/](https://xzz-a11y.github.io/every-day-share)
+- 🌐 网页地址：[https://xzz-a11y.github.io/every-day-share/](https://xzz-a11y.github.io/every-day-share)
 - 📦 资源仓库/下载：[Every-day-Share releases](https://github.com/XZZ-A11Y/Every-day-Share/releases)
 - 🛠 网页构建源码：本仓库
 
