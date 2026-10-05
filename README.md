@@ -6,6 +6,7 @@
   [![stars](https://img.shields.io/badge/stars-welcome-blueviolet.svg)](https://github.com/XZZ-A11Y/Every-day-Share/stargazers)
   [![build](https://img.shields.io/badge/build-passing-brightgreen.svg)](https://github.com/XZZ-A11Y/Every-day-Share/actions)
 </div>
+
 ---
 
 ## 📜 使用协议
