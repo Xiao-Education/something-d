@@ -1,5 +1,5 @@
- <p>开源、免费的日常资源分享与投稿发布平台(虽然这只是一个网页，真正的资源在另外一个仓库）</p>
-  
+## 开源、免费的日常资源分享与投稿发布平台(虽然这只是一个网页，真正的资源在另外一个仓库） 
+ 
   [![release](https://img.shields.io/badge/release-v10.0.0-blue.svg)](https://github.com/XZZ-A11Y/Every-day-Share/releases)
   [![license](https://img.shields.io/badge/license-GPL--3.0-orange.svg)](LICENSE)
   [![downloads](https://img.shields.io/badge/downloads-10+-green.svg)](https://github.com/XZZ-A11Y/Every-day-Share/releases)
