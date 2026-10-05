@@ -15,7 +15,7 @@ The actual shared resources/files are stored in a separate repository:
 [![stars](https://img.shields.io/badge/stars-welcome-blueviolet.svg)](https://github.com/XZZ-A11Y/Every-day-Share/stargazers)
 [![build](https://img.shields.io/badge/build-passing-brightgreen.svg)](https://github.com/XZZ-A11Y/Every-day-Share/actions)
 
-- 🌐 Web page: [https://xzz-a11y.github.io/你的网页仓库名/](https://xzz-a11y.github.io/你的网页仓库名/)
+- 🌐 Web page: [https://xzz-a11y.github.io/你的网页仓库名/](https://xzz-a11y.github.io/every-day-share)
 - 📦 Resources: [Every-day-Share releases](https://github.com/XZZ-A11Y/Every-day-Share/releases)
 - 🛠 Source/Web build: this repository
 
@@ -53,7 +53,7 @@ Some submitted resources may carry their own independent licenses — please fol
 [![stars](https://img.shields.io/badge/stars-welcome-blueviolet.svg)](https://github.com/XZZ-A11Y/Every-day-Share/stargazers)
 [![build](https://img.shields.io/badge/build-passing-brightgreen.svg)](https://github.com/XZZ-A11Y/Every-day-Share/actions)
 
-- 🌐 网页地址：[https://xzz-a11y.github.io/你的网页仓库名/](https://xzz-a11y.github.io/你的网页仓库名/)
+- 🌐 网页地址：[https://xzz-a11y.github.io/你的网页仓库名/](https://xzz-a11y.github.io/every-day-share)
 - 📦 资源仓库/下载：[Every-day-Share releases](https://github.com/XZZ-A11Y/Every-day-Share/releases)
 - 🛠 网页构建源码：本仓库
 
